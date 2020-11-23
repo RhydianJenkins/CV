@@ -75,7 +75,7 @@ During the degree, a wide range of technologies were studied which are still uti
 ---
 
 ## A Levels
-### NTPC College (2012-2014)
+### NPTC College (2012-2014)
 Computing, Computer Graphics, and Electircal Engineering.
 
 # Personal Details
