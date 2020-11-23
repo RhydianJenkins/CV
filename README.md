@@ -14,11 +14,7 @@ SA11 2LS
 
 Committed and driven Computer Science PhD Student with an understanding of many programming and computing aspects; with experience working in a group and alone on multiple challenging tasks using a wide range of languages including the web stack (PHP7, HTML5, MySql, JQuery), MVC Frameworks (Zend/Laminas), LaTeX, and Java applications.
 
-I am familiar with Windows and Linux environments, Virtual Machines, and text based shells.
-
-# Key Achievements
-- Swarm Robotics PhD
-- Solo webmaster at local sailing club
+Familiar with Windows and Linux environments, Virtual Machines, and text based shells.
 
 # Skills
 - Infastructure and Workflow (Scrum, Docker, Git)
@@ -31,7 +27,7 @@ I am familiar with Windows and Linux environments, Virtual Machines, and text ba
 
 ## PhD Topological Mapping Swarm Robotics
 ### Aberystwyth University (2017–2021)
-Worked on novel solutions for the topological multi-agent SLAM problem, using a swarm of agents to try and map out an environment.
+Worked on novel solutions for the topological multi-agent SLAM problem, using a swarm of agents to map out an environment.
 ### Responsibilities:
 - Developing a simulator for robotic operations
 - Innovating novel ideas to solve challenging problems
@@ -40,9 +36,20 @@ Worked on novel solutions for the topological multi-agent SLAM problem, using a 
 
 ---
 
+## University Tutor
+### Aberystwyth University (2017–2021)
+Tutored Computer Science undergraduate students in a variety of different contexts.
+### Responsibilities:
+- Running workshops, lectures, and tuition groups with undergraduate students
+- Hosting advisory sessions to help students through a wide range of problems
+- One-to-one teaching
+- Grading and supplying feedback to assignments and coursework
+
+---
+
 ## PHP Software Engineer
 ### Lexis Nexis Risk Solutions (2016)
-Operated with a team of developers/testers to implement industry quality software through a Zend Framework. Responsible for pushing code to a  Jenkins CI server, and ensuring code quality through custom codesniffers and unit/integration tests.
+Operated with a team of developers/testers to implement industry quality software through a Zend Framework. Responsible for pushing code to a Jenkins CI server, and ensuring code quality through custom codesniffers and unit/integration tests.
 ### Responsibilities:
 - Working in an Agile team delivering user stories through sprints
 - Peer reviewing code
@@ -53,7 +60,7 @@ Operated with a team of developers/testers to implement industry quality softwar
 
 ## BSc Computer Science (2:1)
 ### Aberystwyth University (2014–2016)
-I extremely enjoyed my degree, which semented my love of computer science. During my degree, I leanred a wide range of technologies which I still use today.
+During the degree, a wide range of technologies were studied which are still utilised today.
 ### Modules:
 - Web programming
 - Java, C, and C++ programming paradigms
@@ -69,7 +76,7 @@ I extremely enjoyed my degree, which semented my love of computer science. Durin
 
 ## A Levels
 ### NTPC College (2012-2014)
-Studied Computing, Computer Graphics, and Electircal Engineering.
+Computing, Computer Graphics, and Electircal Engineering.
 
 # Personal Details
 - Enjoys experimenting with emerging technologies
