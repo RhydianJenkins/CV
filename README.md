@@ -12,18 +12,27 @@ SA11 2LS
 
 # Personal Profile
 
-Committed and driven Computer Science PhD Student with an understanding of many programming and computing aspects; with experience working in a group and alone on multiple challenging tasks using a wide range of languages including the web stack (PHP7, HTML5, MySql, JQuery), MVC Frameworks (Zend/Laminas), LaTeX, and Java applications.
+ Committed and driven Computer Science PhD graduate with an understanding of many programming and computing aspects; with experience working in a group and alone on multiple challenging tasks using a wide range of languages including the web stack, MVC Frameworks (Zend/Laminas/Symfony-doctrine), Python, and Java applications.
 
-Familiar with Windows and Linux environments, Virtual Machines, and text based shells.
+Familiar with Windows and Linux environments (native and WSL), Virtual Machines, Containers, and text based shells.
 
 # Skills
 - Infastructure and Workflow (Scrum, Docker, Git)
 - Full LAMP Stack
-- Zend/Laminas MVC
+- Cloud (GCP)
 - Build tools (Composer, Docker-compose, Maven, Ant, Make)
 - Public speaking while presenting work at various conferences
 
 # History
+
+## WCBS
+Working remotely as part of an agile team to deliver frequent code releases for a complex web application tied together with a REST API.
+### Responsibilities:
+- Front end development (Vue)
+- Back end development (Symfony with doctrine)
+- Unit testing code (Jest and PHPUnit)
+- CI/CD through GitHub
+
 
 ## PhD Topological Mapping Swarm Robotics
 ### Aberystwyth University (2017–2021)
