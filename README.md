@@ -12,10 +12,9 @@ SA11 2LS
 
 # Personal Profile
 
- Committed and driven Computer Science PhD graduate with an understanding of many programming and computing aspects; with experience working in a group and alone on multiple challenging tasks using a wide range of languages including the web stack, MVC Frameworks (Zend/Laminas/Symfony-doctrine), Python, and Java applications.
+Committed and driven Computer Science PhD Student with an understanding of many programming and computing aspects; with experience working in a group and alone using a wide range of technologies including JS Frameworks (Primarily Vue and Svelte), MVC Frameworks (Symfony/Zend/Laminas), Docker, and Java applications.
 
-Familiar with Windows and Linux environments (native and WSL), Virtual Machines, Containers, and text based shells.
-
+Familiar working in Windows and Linux environments, Virtual Machines and shells. Strives for a principle first approach when learning, combined with a passion to engage in any challenge with a `can-do' attitude.
 # Skills
 - Infastructure and Workflow (Scrum, Docker, Git)
 - Full LAMP Stack
@@ -26,13 +25,17 @@ Familiar with Windows and Linux environments (native and WSL), Virtual Machines,
 # History
 
 ## WCBS
-Working remotely as part of an agile team to deliver frequent code releases for a complex web application tied together with a REST API.
-### Responsibilities:
-- Front end development (Vue)
-- Back end development (Symfony with doctrine)
-- Unit testing code (Jest and PHPUnit)
-- CI/CD through GitHub
+Part of an agile team working remotely to develop a modern school Management Information System (MIS) solution, delivering frequent (2x weekly) releases on high standard product requirements.
 
+### Responsibilities:
+- Developing a front end school MIS solution in Vue.js
+- Developing a RESTful API in Symfony/Doctrine
+- Ensuring code quality through Unit tests and code review
+- CI/CD through GitHub and Jenkins
+- DevOps through the GCP console
+- Database and entity managment through Doctrine Query Language (DQL)
+
+---
 
 ## PhD Topological Mapping Swarm Robotics
 ### Aberystwyth University (2017–2021)
