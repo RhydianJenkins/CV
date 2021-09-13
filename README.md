@@ -16,10 +16,10 @@ Committed and driven Computer Science PhD Student with an understanding of many 
 
 Familiar working in Windows and Linux environments, Virtual Machines and shells. Strives for a principle first approach when learning, combined with a passion to engage in any challenge with a `can-do' attitude.
 # Skills
-- Infastructure and Workflow (Scrum, Docker, Git)
-- Full LAMP Stack
-- Cloud (GCP)
-- Build tools (Composer, Docker-compose, Maven, Ant, Make)
+- Infrastructure and DevOps (Docker, Git, GCP)
+- Full Web Stack
+- Symfony/Zend/Laminas MVC
+- Package managment and build tools (npm, Composer, Docker-compose, Maven, Ant, Pip, Make, ...)
 - Public speaking while presenting work at various conferences
 
 # History
