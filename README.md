@@ -1,5 +1,4 @@
-# Rhydian Jenkins CV (MD Version)
-
+# Rhydian Jenkins' CV
 [LinkedIn](https://www.linkedin.com/in/rhydian-jenkins-30309085/)\
 [GitHub](https://github.com/RhydianJenkins)\
 Rhydz \[at\] msn \[dot\] com
