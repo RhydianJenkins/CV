@@ -11,7 +11,9 @@ jobs:
         with:
           root_file: cv.tex
       - name: Upload built PDF to repo
-        uses: actions/upload-artifact@v2
+        uses: EndBug/add-and-commit@v8
         with:
-          name: PDF
-          path: cv.pdf
+          add: 'cv.pdf'
+          committer_name: 'GitHub Actions'
+          message: 'Update pdf'
+
