@@ -1,12 +1,12 @@
 \documentclass[10pt]{article}
 
-\usepackage[a4paper, total={7in, 10in}]{geometry} % define page size
-\usepackage{hyperref} % for linked in ref
-\usepackage{array, xcolor} % for colour
-\usepackage{eurosym} % for the euro symbol
-\usepackage{enumitem} % http://ctan.org/pkg/enumitem
-\usepackage{longtable} % multi page table
-\usepackage{fontawesome} % for symbols
+\usepackage[a4paper, total={7in, 10in}]{geometry}
+\usepackage{hyperref}
+\usepackage{array, xcolor}
+\usepackage{eurosym}
+\usepackage{enumitem}
+\usepackage{longtable}
+\usepackage{fontawesome}
 
 \definecolor{lightgray}{gray}{0.8}
 
@@ -15,7 +15,6 @@
 \newcommand\VRule{\color{lightgray}\vrule width 0.5pt}
 
 \title{\bfseries\Huge Rhydian Jenkins}
-
 \date{}
 \author{}
 
@@ -31,36 +30,43 @@
 \faEnvelope \quad Rhydz@msn.com\\
 \faMapMarker \quad SA11 2LS
 
-\section*{Personal Profile}
-Computer Science PhD and Software Engineer with a strong track record of delivering high-quality software. Experienced across multiple languages, technologies, and development environments.
-A collaborative problem-solver who works effectively both independently and within teams, with a strong commitment to continuous learning and tackling new challenges.
+% Profile
+\section*{Profile}
+Software Engineer with 5+ years of professional experience delivering and maintaining production systems across web, cloud, and distributed environments. Strong background in full-stack development, system design, and operationally robust services.
 
-\section*{Skills}
-\begin{itemize} \setlength\itemsep{-0.25em}
-    \item DevOps (Docker, Jenkins, Kubernetes, Git, GCP, AWS)
-    \item Front end - Webpack, Vite, Next, Nuxt and SvelteKit
-	\item Back end - Full stack and microkernel Symfony, Laminas, and Laravel
-    \item Package management and build tools (npm, Nix, Composer, Docker-compose, Maven, Make, etc)
-	\item Public speaking while presenting work at various conferences
+Experienced working across multiple languages and paradigms, with a focus on building maintainable, well-tested software and improving existing systems over time. Holds a PhD in Computer Science with a foundation in systems, concurrency, and problem-solving at scale.
+
+% Skills
+\section*{Core Skills}
+\begin{itemize}[noitemsep,topsep=0pt]
+    \item \textbf{Software Engineering:} System design, API design, modular architectures, refactoring legacy systems, code review
+    \item \textbf{Backend \& Systems:} PHP (Symfony, Laminas, Laravel), Go, Rust, RESTful APIs, service-oriented architectures
+    \item \textbf{Frontend:} React (TypeScript), Vue 3, modern build tooling (Vite, Webpack)
+    \item \textbf{DevOps \& Cloud:} Docker, Kubernetes, CI/CD (GitHub, Jenkins), GCP, AWS
+    \item \textbf{Testing \& Quality:} PHPUnit, Jest, RTL, Mocha, integration and functional testing
+    \item \textbf{Tooling:} Git, Nix/Nixpkgs, Composer, npm, Make
+    \item \textbf{Communication:} Technical documentation, conference presentations, cross-team collaboration
 \end{itemize}
 
-% experience
+% Experience
 \section*{Experience}
 \begin{longtable}{L!{\VRule}R}
 
-% Basekit
+% BaseKit
 {\bf BaseKit}\\
-2022--present\\
+2022--Present\\
 &{\bf Full Stack Developer}\newline
-Accountable for developing and maintaining software for a large white label website builder monorepo. My responsibilities included working on various applications such as e-commerce, booking, and customer management solutions, as well as the website builder itself.
+Developer on a large white-label website builder platform, supporting e-commerce, bookings, and customer management functionality within a complex monorepo.
 
 \vspace{-3mm}
-\paragraph{Responsibilities:}
+\paragraph{Responsibilities \& Contributions:}
 \begin{itemize}[noitemsep,topsep=0pt]
-    \item Develop/maintain modern React.ts applications utilizing MSW, RTL, Redux, and other technologies
-    \item Develop/maintain modern PHP backend applications and RESTful APIs using Symfony
-    \item Maintain various large legacy applications written using a variety of technologies such as silex and backbone js
-    \item Implementing functional testing strategies utilizing Mocha, PHPUnit, Jest, RTL, and other tools
+    \item Delivered features across frontend and backend systems used by a large customer base
+    \item Developed and maintained React (TypeScript) applications with comprehensive automated testing
+    \item Built and evolved Symfony-based backend services and REST APIs
+    \item Worked extensively on large legacy codebases (Silex, Backbone.js), improving stability and maintainability
+    \item Contributed to improving test coverage and release confidence through functional and integration testing
+    \item Collaborated closely with product, QA, and platform teams throughout the development lifecycle
 \end{itemize}
 \\
 
@@ -68,95 +74,87 @@ Accountable for developing and maintaining software for a large white label webs
 {\bf WCBS}\\
 2021--2022\\
 &{\bf Full Stack Developer}\newline
-Part of an agile team working remotely to develop a modern cloud native Management Information System (MIS) solution for a large number of schools. Operated using a broad tech stack, including Vue3, Symfony, and Docker.
+Member of an agile, remote-first team building a cloud-native MIS platform for schools.
 
 \vspace{-3mm}
-\paragraph{Responsibilities:}
+\paragraph{Responsibilities \& Contributions:}
 \begin{itemize}[noitemsep,topsep=0pt]
-	\item Develop a Vue.ts frontend and a Symfony RESTful API
-	\item Ensuring code quality through Jest/PHPUnit tests and code review
-	\item Deploying releases through the various environments
-	\item CI/CD through GitHub and Jenkins
-	\item DevOps through the GCP, Kubernetes, and Docker
-	\item Database and entity management through Doctrine ORM
+    \item Developed Vue 3 (TypeScript) frontends and Symfony-based REST APIs
+    \item Contributed to CI/CD pipelines and deployment workflows
+    \item Worked with Docker and Kubernetes in a GCP-hosted environment
+    \item Participated in code reviews and architectural discussions
+    \item Helped maintain code quality through automated testing and peer review
 \end{itemize}
 \\
 
 % Tutoring
 {\bf Aberystwyth University}\\
 2017--2021\\
-&{\bf University Tutor}\newline
-Tutored Computer Science university students in a variety of different computer science contexts.
+&{\bf University Tutor (Computer Science)}\newline
+Provided academic instruction and support alongside PhD research.
 
 \vspace{-3mm}
 \paragraph{Responsibilities:}
 \begin{itemize}[noitemsep,topsep=0pt]
-	\item Running workshops, lectures, and tuition groups with undergraduate students
-	\item Hosting advisory sessions to help students through a wide range of problems
-	\item One-to-one teaching
-	\item Grading and supplying feedback to assignments and coursework
+    \item Delivered lectures, workshops, and tutorials
+    \item Supported students with software development and problem-solving
+    \item Assessed coursework and provided detailed feedback
 \end{itemize}
 \\
 
 % Lexis Nexis
 {\bf Lexis Nexis Risk Solutions}\\
 2016\\
-&{\bf PHP Software Engineer}\newline
-Operated with a team of developers/testers to implement industry quality software through a Zend Framework. Responsible for pushing code to a Jenkins CI server, and ensuring code quality through custom codesniffers and unit/integration tests.
+&{\bf Software Engineer}\newline
+Worked within an Agile team delivering enterprise software in a regulated environment.
 
 \vspace{-3mm}
 \paragraph{Responsibilities:}
 \begin{itemize}[noitemsep,topsep=0pt]
-    \item Working in an Agile team delivering user stories through sprints
-    \item Peer reviewing code
-    \item Developing features involving both front-end and back-end aspects
+    \item Developed backend services using Zend Framework
+    \item Contributed to CI pipelines via Jenkins
+    \item Participated in code reviews and maintained testing standards
 \end{itemize}
 \end{longtable}
 
-% education
+% Education
 \section*{Education}
 \begin{longtable}{L!{\VRule}R}
 
-% PhD
 {\bf Aberystwyth University}\\
-&{\bf PhD Topological Mapping with Swarm Robotics}\newline
-Worked on novel solutions for the topological multi-agent SLAM problem, using a swarm of agents to map out an environment. Involved with writing ROS modules to achieve challenging tasks in languages such as C++, Java, and Python.
+&{\bf PhD — Topological Mapping with Swarm Robotics}\newline
+Research into distributed, multi-agent systems and robotic mapping.
 
 \vspace{-3mm}
-\paragraph{Responsibilities:}
+\paragraph{Highlights:}
 \begin{itemize}[noitemsep,topsep=0pt]
-	\item Developing a simulator for robotic operations
-	\item Innovating novel solutions to the multi-agent SLAM problem
-	\item Communicating advanced and technical work
+    \item Designed and implemented simulators and ROS modules
+    \item Developed systems in C++, Java, and Python
+    \item Worked extensively with concurrency, coordination, and correctness
 \end{itemize}
 \\
 
-% BSc Computer Science
 {\bf Aberystwyth University}\\
 &{\bf BSc Computer Science}\newline
-During the degree, a wide range of technologies were studied which are still utilised today.
-
 \vspace{-3mm}
-\paragraph{Modules:}
+\paragraph{Key Areas:}
 \begin{itemize}[noitemsep,topsep=0pt]
-    \item Web programming
-    \item Java, C, and C++ programming paradigms
-    \item Software development lifecycle
-    \item Human computer interface and human computer interaction
-    \item Agile methodologies
-    \item Advanced computer graphics
+    \item Software engineering principles
+    \item Systems programming (C/C++)
+    \item Web technologies and human-computer interaction
+    \item Agile development methodologies
 \end{itemize}
 \\
 
 \end{longtable}
 
-% personal details
-\section*{Personal Details}
+% Additional
+\section*{Additional}
 \begin{itemize}[noitemsep,topsep=0pt]
-    \item Contributor to Nixpkgs
-    \item Experience with using ROS to control robots in simulation and real world application.
-	\item Friendly and approachable personality, with confidence to ask questions and collaborate with others.
-	\item Full UK driving licence.
+    \item Contributor to \textbf{Nixpkgs}
+    \item Experience using ROS in simulated and real-world robotics environments
+    \item Strong interest in software correctness, performance, and reliability
+    \item Full UK driving licence
 \end{itemize}
 
 \end{document}
